@@ -1,0 +1,2 @@
+teacher = 'xjy'
+print (teacher)
